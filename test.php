@@ -5,7 +5,7 @@
 function fun($x)
 {
 	$a=rand(6,15);
-	$x=$x.$a;
+	$x=$x." ".$a;//Concatenated with a space.
 	return $x;
 }
 //Accessing php file without filling form not possible
