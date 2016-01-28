@@ -9,4 +9,4 @@
 
 **About Project**
 
-The project developed using PHP and HTML.The Project is to concatenate a random number (betweeen 6 and 15) to a variable.
+The project developed using PHP and HTML.The Project is to concatenate a random number (between 6 and 15) to a variable.
