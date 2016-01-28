@@ -1,9 +1,11 @@
-**Requirements**:
+**Configuration**:
 1.Install xampp
 
 2.Open xampp control panel and start apache server
 
-3.Type localhost/filename to open it in browser
+3.Paste the files in htdocs.
+
+4.Type localhost/filename(main.php) to open it in browser
 
 **About Project**
 
